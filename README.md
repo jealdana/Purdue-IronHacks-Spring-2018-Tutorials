@@ -2,17 +2,17 @@
 
 ## Spanish vesion    
 
-Bienvenidos al Purdue Gold IronHacks - Primavera 2018! A continuación encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revicen todo el material antes del inicio de la competencia. La competencia iniciará el domingo 6 de Abril.
-
+Bienvenidos al Purdue Gold IronHacks - Primavera 2018! A continuación, encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revisen todo el material antes del inicio de la competencia. La competencia iniciará el domingo 6 de abril.
+<!--
 javascript https://youtu.be/own5pcZ6MZc
 d3.js https://youtu.be/0_ZAc1pkaY8
 html css https://youtu.be/o74YX3koXPY
 bootstrap https://youtu.be/IdUHGzKSoBI
 google maps https://youtu.be/hwfrZkxLybM
-
-## Sesion 1
+-->
+## Sesión 1
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lúnes 23 de Abril - 4:00pm - 6:00pm)</small></i><br>
-<i><small>Grupos 3 (Profesor Edgar) martes 24 de Abril - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) martes 24 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
 
 ### Tutorial HTML - CSS
@@ -39,7 +39,7 @@ google maps https://youtu.be/hwfrZkxLybM
 **[Tutorial](http://www.w3schools.com/css/)** -- css tutorial w3school.com<br>
 
 ### Quiz sesión 1:
-**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” - Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm<br>
+**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 <!-- 
 ### Social Coding Platform
 
