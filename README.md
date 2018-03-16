@@ -3,26 +3,18 @@
 ## Spanish vesion    
 
 Bienvenidos al Purdue Gold IronHacks - Primavera 2018! A continuación, encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revisen todo el material antes del inicio de la competencia. La competencia iniciará el domingo 6 de abril.
-<!--
-javascript https://youtu.be/own5pcZ6MZc
-d3.js https://youtu.be/0_ZAc1pkaY8
-html css https://youtu.be/o74YX3koXPY
-bootstrap https://youtu.be/IdUHGzKSoBI
-google maps https://youtu.be/hwfrZkxLybM
--->
 ## Sesión 1
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lúnes 23 de Abril - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) martes 24 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
-
 ### Tutorial HTML - CSS
 
 #### Video tutorial - Introducción a HTML y CSS:
-**[HTML y CSS](https://youtu.be/o74YX3koXPY)** -- Introducción a HTML y CSS <br>
+**[HTML y CSS](https://youtu.be/o74YX3koXPY)**<br>
 **[Código fuente]()** -- Código fuente usado en el vídeo. 
 
 #### Video tutorial - Introducción a Bootstrap:
-**[HTML y CSS](https://youtu.be/IdUHGzKSoBI)** -- Introducción a Bootstrap <br>
+**[Bootstrap](https://youtu.be/IdUHGzKSoBI)**<br>
 **[Código fuente]()** -- Código fuente usado en el vídeo. 
 
 ### Recursos adicionales:
@@ -30,13 +22,13 @@ google maps https://youtu.be/hwfrZkxLybM
 #### Web oficial de Bootstrap<br>
 **[Bootstrap](http://getbootstrap.com/)** -- bootstrap tutorial <br>
 #### Documentación oficial HTML - Mozilla Developer Network
-**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)** -- HTML docs - MDN <br>
+**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)**<br>
 #### Documentación oficial CSS - Mozilla Developer Network
-**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)** -- HTML docs - MDN <br>
+**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)**<br>
 #### Tutorial de HTML - w3schools.com
-**[Tutorial](http://www.w3schools.com/html/)** -- html tutorial w3school.com<br>
+**[w3schools - HTML](http://www.w3schools.com/html/)**<br>
 #### Tutorial de CSS - w3schools.com
-**[Tutorial](http://www.w3schools.com/css/)** -- css tutorial w3school.com<br>
+**[w3schools - CSS](http://www.w3schools.com/css/)**<br>
 
 ### Quiz sesión 1:
 **[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
@@ -49,36 +41,34 @@ You are required to submit code to our system using our social coding platform <
 **[Getting started](session1/Github/Github-Tutorial.md)** -- A simple introduction for Git and GitHub, such as how to install and basic usage (not needed for contest but if you are curious)<br>
 **[Understanding GIT](https://www.atlassian.com/git/tutorials/what-is-git)** -- A good tutorial for Git (not needed for contest but if you are curious)
 -->
-## Session 2
-<small><i>(please complete between October 18th to October 24th)</i></small>
+<!--
+javascript https://youtu.be/own5pcZ6MZc
+d3.js https://youtu.be/0_ZAc1pkaY8
+html css https://youtu.be/o74YX3koXPY
+bootstrap https://youtu.be/IdUHGzKSoBI
+google maps https://youtu.be/hwfrZkxLybM
+-->
+## Sesión 2
+<i><small>Grupos 1 y 2 (Profesor Nicolás) miércoles 24 de Abril - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) jueves 25 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
-**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMidnAwcW1ESFNRaGc)** -- Slides for Session 2
+### Tutorial Javascript - jQuery
 
-### Javascript and jQuery
-### An official tutorial for Javascript
-**[JS Tutorial](http://www.w3schools.com/js/)** -- javascript tutorial on w3 school <br>
-**[Javascript Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btOWxmMEFtSkZid00)** -- javascript video 1 on social coding platform<br>
-**[Javascript Code 1](https://drive.google.com/drive/folders/0B301Ac3Lm0btZUFyRTI4cHF5YjQ)** -- javascript code 1 on social coding platform<br>
-**[Javascript Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- javascript video 2 on social coding platform <br>
-**[Javascript Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- javascript code 2 on social coding platform<br>
-**[Javascript In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btMENrZHJ2NGFGUFU?usp=sharing)** -- javascript in class tutorial<br>
-### An official tutorial for jQuery
-**[jQuery Tutorial](http://www.w3schools.com/jquery/)** --w3 school tutorial for jQuery
+#### Video tutorial - Introducción a Javascript y jQuery:
+**[Javascript/jQuery](https://youtu.be/own5pcZ6MZc)** -- Introducción a Javascript <br>
+**[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo. 
 
-### Additional Projects link and Videos (if you want to practice more)
-**[Sample Project](session2/)** -- A demo project for Javascript and jQuery using social coding platform<br>
-**[JavaScript 1](https://www.youtube.com/watch?v=AhDO3xLwuC0&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=1)** --Link to Javascript video 1<br>
-**[JavaScript 2](https://www.youtube.com/watch?v=24AZUg6YY6w&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=2)** --Link to Javascript video 2<br>
-**[JavaScript 3](https://www.youtube.com/watch?v=hl71lGLlbbg&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=3)** --Link to Javascript video 3<br>
-**[jQuery 1](https://www.youtube.com/watch?v=qIo_F5qI7Qk&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=4)** -- Link to jQuery video 1<br>
-**[jQuery 2](https://www.youtube.com/watch?v=0mtZJTIq1LU&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=5)** -- Link to jQuery video 2<br>
-**[jQuery 3](https://www.youtube.com/watch?v=m6VhtLLJiCQ&list=PLv0S1odRLm0aNn1kgeswUMAkFhOqzEZee&index=6)** -- Link to jQuery video 3 <br>
+### Recursos adicionales:
 
-### Sample video in Spanish version of javascript and jquery
-**[Spanish Version Video](https://drive.google.com/open?id=0B255jHwhIl5ha2hJVTg5aU9Wbmc)**-- Video in spanish language<br>
-Please follow along these videos to complete the sample projects on Javascript & jQuery<br>
-**[Spanish Version Code](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Code for Spanish Video<br>
-**[Quiz - Javascript & jQuery](http://www.ironhacks.com/quizzes)**: Quiz “Javascript & jQuery” for week 2: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+#### Documentación oficial JS - Mozilla Developer Network<br>
+**[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**<br>
+#### Documentación oficial jQuery
+**[jQuery Docs](https://api.jquery.com/)** -- HTML docs - MDN <br>
+#### Tutorial de Javascrip - w3schools.com
+**[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
+
+### Quiz sesión 2:
+**[Quiz - Javascript](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la
 
 ## Session 3
 <small><i>(please complete between October 25th to October 31th)</i></small>
