@@ -1,42 +1,45 @@
-# Purdue Gold IronHacks Fall 2017 Tutorials    
+# Purdue Gold IronHacks Primavera 2018 Tutorials
 
-Welcome to Purdue Gold IronHacks Fall 2017! These pages aim to introduce you to various technologies that will be required as part of this programming challenge. We kindly ask you to complete the material before the competition starts on October 30th, 2017.
+## Spanish vesion    
 
-## Session 1
-<i><small>(please complete between October 11th to October 17th)</small></i><br>
-**[User Manual Social Coding Platform](https://drive.google.com/open?id=0B301Ac3Lm0btSVdrc3hfd0I4b0k)** -- Introduction to IronHacks <br>
-**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiUk1kQnl1ZHFXYVU)** -- Slides for Session 1<br>
+Bienvenidos al Purdue Gold IronHacks - Primavera 2018! A continuación encontrarán varios vídeo turoriales relacionados con los conocimientos necesarios para resolver el reto de programación que tendrán que afrontar. Les pedimos a todos que revicen todo el material antes del inicio de la competencia. La competencia iniciará el domingo 6 de Abril.
 
-### An official tutorial for HTML
-**[Tutorial](http://www.w3schools.com/html)** -- w3 school tutorial for html<br>
-### Basic HTML video and sample code 1 
-**[HTML Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btUzQxcUJJVURxeVk)** -- html video 1 on social coding platform <br>
-**[HTML Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btT1ZQYnhTeWxobjA)** -- html code 1 on social coding platform<br>
-### Basic HTML video and sample code 2
-**[HTML Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btVGxOUDRRdk9KYjg)** -- html video 2 on social coding platform <br>
-**[HTML Sample Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btalNDMEZOaXBLNWM)** -- html code 2 on social coding platform<br>
-### Basic HTML video and sample code 3
-**[HTML Video 3](https://drive.google.com/open?id=0B301Ac3Lm0btRU9VYUZwOFpVejQ)** -- html video 3 on social coding platform <br>
-**[HTML Sample Code 3](https://drive.google.com/open?id=0B301Ac3Lm0btRW1rOVh6em1XU0E)** -- html code 3 on social coding platform <br>
+javascript https://youtu.be/own5pcZ6MZc
+d3.js https://youtu.be/0_ZAc1pkaY8
+html css https://youtu.be/o74YX3koXPY
+bootstrap https://youtu.be/IdUHGzKSoBI
+google maps https://youtu.be/hwfrZkxLybM
+
+## Sesion 1
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lúnes 23 de Abril - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupos 3 (Profesor Edgar) martes 24 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
 
-### An official tutorial for CSS
-**[Tutorial](http://www.w3schools.com/css/)** -- css tutorial on w3 school<br>
-### Official website for Bootstrap<br>
-**[Bootstrap 1](http://getbootstrap.com/)** -- bootstrap tutorial <br>
-### Basic BOOTSTRAP video and sample code version
-**[Boostrap Video 1](https://drive.google.com/open?id=0B301Ac3Lm0btelpqcmxDbi1Eb2c)** -- boostrap video on social coding editor <br>
-**[Boostrap Sample Code 1](https://drive.google.com/open?id=0B301Ac3Lm0btV2Z2U3dxT0pHVHM)** -- boostrap codes on social coding editor <br>
+### Tutorial HTML - CSS
 
-### Additional Videos and  links
-**[Sample Project](session1/html&css)** -- A demo project for HTML and CSS using socila coding platform<br>
-**[HTML & CSS 1](https://www.youtube.com/watch?v=NgY0Cs09xyM&index=1&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&t=572s)** -- Link to video 1<br>
-**[HTML & CSS 2](https://www.youtube.com/watch?v=jYlHVKq7YKc&list=PLv0S1odRLm0YTt7EaxAQpiru6HJAymYJ-&index=2)** Link to video 2 <br>
+#### Video tutorial - Introducción a HTML y CSS:
+**[HTML y CSS](https://youtu.be/o74YX3koXPY)** -- Introducción a HTML y CSS <br>
+**[Código fuente]()** -- Código fuente usado en el vídeo. 
 
-Please follow along these videos to complete the sample projects on HTML & CSS
+#### Video tutorial - Introducción a Bootstrap:
+**[HTML y CSS](https://youtu.be/IdUHGzKSoBI)** -- Introducción a Bootstrap <br>
+**[Código fuente]()** -- Código fuente usado en el vídeo. 
 
+### Recursos adicionales:
 
-**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” for week 1: We strongly recommend that you take this quiz. (sign-in to your contest)<br>
+#### Web oficial de Bootstrap<br>
+**[Bootstrap](http://getbootstrap.com/)** -- bootstrap tutorial <br>
+#### Documentación oficial HTML - Mozilla Developer Network
+**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)** -- HTML docs - MDN <br>
+#### Documentación oficial CSS - Mozilla Developer Network
+**[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/CSS)** -- HTML docs - MDN <br>
+#### Tutorial de HTML - w3schools.com
+**[Tutorial](http://www.w3schools.com/html/)** -- html tutorial w3school.com<br>
+#### Tutorial de CSS - w3schools.com
+**[Tutorial](http://www.w3schools.com/css/)** -- css tutorial w3school.com<br>
+
+### Quiz sesión 1:
+**[Quiz - HTML & CSS](http://www.ironhacks.com/quizzes)**: Quiz “HTML & CSS” - Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm<br>
 <!-- 
 ### Social Coding Platform
 
