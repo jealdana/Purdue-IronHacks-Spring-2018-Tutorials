@@ -68,121 +68,100 @@ google maps https://youtu.be/hwfrZkxLybM
 **[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
 
 ### Quiz sesión 2:
-**[Quiz - Javascript](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la
+**[Quiz - Javascript](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
-## Session 3
-<small><i>(please complete between October 25th to October 31th)</i></small>
-**[Presentation](https://drive.google.com/open?id=0B9lludeBBlMiTmZLNHlTRjNiMmc)** -- Slides for Session 3
+## Sesión 3
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 30 de Abril - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) mayo 1 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
-### Tutorials for d3
-**[D3 Tutorial 1](https://github.com/d3/d3/wiki)** --Official Tutorial for d3.js library<br>
-**[D3 Video 2](https://drive.google.com/open?id=0B301Ac3Lm0btcXB1MjI5YWpBVFk)** -- Our own d3 video 2, using social coding platform <br>
-**[D3 Code 2](https://drive.google.com/open?id=0B301Ac3Lm0btMUNHZ2tKQVd5aGs)** -- Our own d3 code 2 on social coding platform<br>
-**[D3 In Class Tutorial](https://drive.google.com/drive/folders/0B301Ac3Lm0btWUN6RkQzbmI4bUE?usp=sharing)** -- Our own d3 in class tutorial helpd on October 25&26th<br>
-**[D3 In Class Sample Codes](https://drive.google.com/drive/folders/0B301Ac3Lm0btai1wUjVXWkxqbTQ?usp=sharing)** -- d3 in class sample codes for tutorial in class on October 25th26th<br>
-### Official Website of d3 library
-**[D3.js](http://d3js.org)** --Official site for d3.js library <br><br>
-### Spanish version of d3 and Google Maps
-**[Spanish version of d3](https://drive.google.com/open?id=0B255jHwhIl5hSVU1M0xPbFRtbFU)** <br>
-**[Spanish verison of Google Maps](https://drive.google.com/open?id=0B255jHwhIl5hMFdrcWhaS3JsREE)**<br>
-**[Visualize JSON data](https://drive.google.com/file/d/1q8p8KnoZVLpCnRLVFFMTPlVFBSFMXrvL/view?usp=sharing)**<br>
+### Tutorial Google Maps API
+**[Google Maps API](https://youtu.be/hwfrZkxLybM)**<br>
+**[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo.
 
-### Additional Projects link and videos (if you want to practice more)
-**[Sample Project](session3/D3_tutorial)** -- Another simple project for d3 specifically developed for IronHacks (not on social coding platform<br>
-**[d3.js 1](https://drive.google.com/open?id=0B-DRvJb6N3IiLXZDSFR2ZHF5NFE)** -- Code for the project above<br>
-**[d3.js 2](https://drive.google.com/open?id=0B-DRvJb6N3IiYm5hclVxRk9pcEE)** -- Code for the project above<br>
-**[d3.js 3](https://drive.google.com/open?id=0B-DRvJb6N3Iic25BWkJ5eXpNb1E)** -- Code for the project above<br>
-**[d3.js 4](https://drive.google.com/open?id=0B-DRvJb6N3IiVno4eGZQNnItMnM)** -- Code for the project above<br>
+### Recursos adicionales:
+**[Documentación Google Maps API](https://developers.google.com/maps/documentation/javascript/adding-a-google-map)**<br>
 
+### Quiz sesión 3:
+**[Google Maps API](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
-Please follow along these videos to complete the sample projects on d3
+## Sessión 4
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 30 de Abril - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) mayo 1 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
-**[Quiz - d3](http://www.ironhacks.com/quizzes)**: Quiz “d3” for week 3: We strongly recommend that you take this quiz (sign-in to your contest)<br>
+### Tutorial D3.js
+**[D3.js](https://youtu.be/0_ZAc1pkaY8)**<br>
+**[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo.
 
-### Google Maps Javascript API
-### An official tutorial and project for Google Map API
-**[Official Tutorial](https://developers.google.com/maps/documentation/javascript/tutorial)** <br>
-**[Official Project](https://developers.google.com/maps/documentation/javascript/earthquakes)** <br>
-### Sample tutorial for Google Map API
-**[Sample Tutorial](session3/GoogleMap/Google-Maps-Tutorial.md)** -- Our sample tutorial for Google Map API specifically developed for IronHacks<br>
-### Spanish Version for Google Map API
-**[Spanish version](https://drive.google.com/file/d/0B255jHwhIl5haTVQcFRuTlVhTkk/view)** <br>
+### Recursos adicionales:
+**[Web oficial D3.js](https://d3js.org/)**<br>
 
-## Session 4
-<small><i>(please complete between Nov 1st to Nov 8th)</i></small>
-### Presentations to learn about (1) design elements, (2) design principles, (3) usability heuristics
-**[design elements](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)** --Learn about design elements<br>
-**[design principles](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)** -- Learn about design principles <br>
-**[usability heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)** -- Learn about usability heuristics<br>
+### Quiz sesión 4:
+**[D3.js](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
-Please go through these slides before you participate in in-class training
+## INFORMACIÓN ADICIONAL DE PREPARACIÓN
+<i><small>El concuso inicia el domingo 6 de mayo.</small></i><br>
 
-**[quiz 1 design elements](https://purdue.qualtrics.com/SE/?SID=SV_esbe7BxRTJdCIM5&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Ddesign_elements&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
-**[quiz 2 design principles](https://purdue.qualtrics.com/SE/?SID=SV_6WDUSwWGkM8udo1&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Ddesign_principles&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
-**[quiz 3 usability heuristics](https://purdue.qualtrics.com/SE/?SID=SV_eESwNO3Kxe1DJiJ&redirect_to=http%3A%2F%2Fwww.ironhacks.com%2Fquizzes%3FmarkComplete%3Dusability_heuristics&user_email=opendigital%40purdue.edu&user_id=59d12a7001d6c800124fadd1&Q_JFE=0)**<br>
-
-### Videos on Usability
-**[Video 1 on Usability](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)** -- Demo video 1 on Usbility<br>
-**[Video 2 on Usability](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)** --Demo video 2 on Usbility<br>
-**[Video 3 on Usability](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)** --Demo video 3 on Usbility<br>
-
-## Additional information to get ready for the hack that starts on October 30th, 2017
-
-Purdue Gold IronHacks Fall 2017 will involve location data, so it is recommended that you go through the Google Maps Tutorial Guide (see above). Below, we provide you with information about open data sets, and also an example submission of a mashup (similar to one that you may submit in the first phase of the hack). For your reference, here is a definition of a **[mashup](https://techterms.com/definition/mashup)**
+Purdue Gold Ironhacks Primavera 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de mashup](https://techterms.com/definition/mashup)**
 
 ### 1. Datasets
 
-The IRONHACKS rules require that you use open data sets in your project.
+El regalmento de Ironhacks demarca como requerimiento OBLIGATORIO el uso de datos abiertos en la solución del problema, a continuación encontrarán una lista de los datasets disponibles para ser utilizados:
 
-Available datasets to choose from:
-- **[Climate Data Online](https://www.ncdc.noaa.gov/cdo-web/webservices/v2)** -- the mandatory dataset <br>
+- **[Lista de datasets]()**
 
-If you want to learn more about the sources of this data:
+Además de eso, el uso de los siguientes datasets es obligatorio:
+- **[Datasets Oblicatorios]()** <br>
+
+Si quieres aprender más sobre fuentes de datos libres vista:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
 - **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
 
-You can read more about these datasets [here](Datasets.md)
+Puedes leer un poco más sobre Datasets [aquí](Datasets.md)
 
-### 2. Libraries List
+### 2. Librerías permitidas:
 
-The list of libraries which can be used by participants during the hack is listed below.
+El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto, si desean utilizar una librería que NO esté dentro de la siguiente lista, deben informarlo ANTES de que inicie el concurso (6 de abril) y la librería será agregada a la lista. Una vez el concurso haya inicie se cerrará la lista. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
 
-- **[list](https://docs.google.com/document/d/1ej4acvHUeBYsyuWEJK_xgEYpqrxTo5Oa4vqmhib_GeM/edit?usp=sharing)** -- List of 29 libraries to be used. 
+- **[Lista de librerías](https://docs.google.com/document/d/1ej4acvHUeBYsyuWEJK_xgEYpqrxTo5Oa4vqmhib_GeM/edit?usp=sharing)**
 
-### 3. Readme File
-Please make sure that you also include very descriptive readme file when you commit your application.
-- **[Example README](readme_template)**
+### 3. Archivo Readme.md
+Por favor asegurense de que su proyecto contenga un archivo readme que siga la siguiente estructura:
+- **[Example README](readme_template)**<br>
+El archivo readme DEBE ser escrito en inglés.
 
-### 4. Virtual Tutoring Sessions
+## Sesiones de apoyo durante el desarrollo del concurso:
+## Sesión de apoyo 1
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 7 de Mayo - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) martes 8 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
-Please see below for a detailed schedule of help sessions. The link for the Google Hangouts is [link](https://hangouts.google.com/call/XFEAUzXgE5_3nZvq4OUoAAEE)
+### Diseño I:
+En esta sesión se hablará sobre pricipios de diseño y usabilidad, a continuación pueden entrar material de apoyo para esta etapa:
+**[Elementos de diseño](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)**<br>
+**[Principios de diseño](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)**
 
-Help session for Purdue students: The physical location is in WANG HALL(Room No 4071). Wang Hall has restricsted  entry after 5:00pm EST. We request students to use Google Hangouts for such times. 
+### Material de apoyo:
+**[Video sobre usabilidad 1](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)**<br><br>
+**[Video sobre usabilidad 2](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)**<br>
 
-|    Date    |           Location          |         Time         |
-|------------|-----------------------------|----------------------|
-| October 11 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| October 12 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| October 18 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| October 19 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| October 25 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| October 26 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| November 1 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| November 2 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| November 8 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| November 9 | WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| November 16| WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
-| November 17| WANG 4071 or google hangout | 4.30pm to 5.30pm EST |
+## Sesión de apoyo 2
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 14 de Mayo - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) martes 15 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
-Help session for Bogota students:
+En esta sesión se atenderán dudas sobre visualización de información, además, el estudiante emajador brindará apoyo técnico para la solución del problema.
 
-|    Date    |           Location          |         Time         |
-|------------|-----------------------------|----------------------|
-| October 13 |        google hangout       | 1.30pm to 3.30pm COT |
-| October 20 |        google hangout       | 1.30pm to 3.30pm COT |
-| October 27 |        google hangout       | 1.30pm to 3.30pm COT |
-| November 3 |        google hangout       | 1.30pm to 3.30pm COT |
-| November 10|        google hangout       | 1.30pm to 3.30pm COT |
-| November 17|        google hangout       | 1.30pm to 3.30pm COT |
+## Sesión de apoyo 3
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 21 de Mayo - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) martes 22 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
-<i>If you have done all this, you are ready to go! GOOD LUCK during the competition! You can do it! </i>
+### Diseño II:
+En esta sesión se hablará sobre usabilidad, a continuación pueden entrar material de apoyo para esta etapa:
+**[Usability Heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)**
+
+### Material de apoyo:
+**[Video sobre usabilidad 3](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)**<br>
+
+## Sesión de apoyo 4
+<i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 23 de Mayo - 4:00pm - 6:00pm)</small></i><br>
+<i><small>Grupo 3 (Profesor Edgar) martes 24 de Mayo - 4:00pm - 6:00pm)</small></i><br>
+
+Esta es la última sesión de apoyo, los profesores encargados y el estudiante embajadar los ayudarán a reolver los problemas que tengan antes de la última entrega. <br>
