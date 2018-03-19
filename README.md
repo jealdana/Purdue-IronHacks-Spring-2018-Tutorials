@@ -20,7 +20,7 @@ Bienvenidos al Purdue Gold IronHacks - Primavera 2018! A continuación, encontra
 ### Recursos adicionales:
 
 #### Web oficial de Bootstrap<br>
-**[Bootstrap](http://getbootstrap.com/)** -- bootstrap tutorial <br>
+**[Bootstrap](http://getbootstrap.com/)** <br>
 #### Documentación oficial HTML - Mozilla Developer Network
 **[HTML docs - MDN](https://developer.mozilla.org/en-US/docs/Web/HTML)**<br>
 #### Documentación oficial CSS - Mozilla Developer Network
@@ -63,7 +63,7 @@ google maps https://youtu.be/hwfrZkxLybM
 #### Documentación oficial JS - Mozilla Developer Network<br>
 **[Javascript Docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript)**<br>
 #### Documentación oficial jQuery
-**[jQuery Docs](https://api.jquery.com/)** -- HTML docs - MDN <br>
+**[jQuery Docs](https://api.jquery.com/)**<br>
 #### Tutorial de Javascrip - w3schools.com
 **[w3schools - Javascript](http://www.w3schools.com/js/)**<br>
 
@@ -82,26 +82,26 @@ google maps https://youtu.be/hwfrZkxLybM
 **[Documentación Google Maps API](https://developers.google.com/maps/documentation/javascript/adding-a-google-map)**<br>
 
 ### Quiz sesión 3:
-**[Google Maps API](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
+**[Quiz - Google Maps API](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
 ## Sessión 4
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 30 de Abril - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) mayo 1 de Abril - 4:00pm - 6:00pm)</small></i><br>
 
 ### Tutorial D3.js
-**[D3.js](https://youtu.be/0_ZAc1pkaY8)**<br>
+**[D3.js](https://youtu.be/0_ZAc1pkaY8)** -- Introducción a D3.js<br>
 **[Código fuente](https://drive.google.com/drive/folders/0B255jHwhIl5hMFFHcmpNY3hkZkU)** -- Código fuente usado en el vídeo.
 
 ### Recursos adicionales:
 **[Web oficial D3.js](https://d3js.org/)**<br>
 
 ### Quiz sesión 4:
-**[D3.js](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
+**[Quiz - D3.js](http://www.ironhacks.com/quizzes)**: Este quiz es OBLIGATORIO y tendrá nota en el curso. Deben terminarlo ANTES de que acabe la clase, es decir, antes de las 6:00pm.<br>
 
 ## INFORMACIÓN ADICIONAL DE PREPARACIÓN
 <i><small>El concuso inicia el domingo 6 de mayo.</small></i><br>
 
-Purdue Gold Ironhacks Primavera 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de mashup](https://techterms.com/definition/mashup)**
+Purdue Gold Ironhacks Primavera 2018 requiere el desarrollo de un mashup, a continuación pueden encontrar la defición de [mashup](https://techterms.com/definition/mashup)**
 
 ### 1. Datasets
 
@@ -110,19 +110,19 @@ El regalmento de Ironhacks demarca como requerimiento OBLIGATORIO el uso de dato
 - **[Lista de datasets]()**
 
 Además de eso, el uso de los siguientes datasets es obligatorio:
-- **[Datasets Oblicatorios]()** <br>
+- **[Datasets Obligatorios]()** <br>
 
-Si quieres aprender más sobre fuentes de datos libres vista:
+Si quieres aprender más sobre fuentes de datos libres, vista:
 - **[Data.gov](https://www.data.gov)** -- Official site of the US Government
 - **[Open Indy Data Portal](http://data.indy.gov/)** -- Official site of the State of Indiana for open data
 
-Puedes leer un poco más sobre Datasets [aquí](Datasets.md)
+Puedes leer un poco más sobre datasets [aquí.](Datasets.md)
 
 ### 2. Librerías permitidas:
 
-El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto, si desean utilizar una librería que NO esté dentro de la siguiente lista, deben informarlo ANTES de que inicie el concurso (6 de abril) y la librería será agregada a la lista. Una vez el concurso haya inicie se cerrará la lista. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
+El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto, si deseas utilizar una librería que NO esté dentro de la siguiente lista, debes informarlo ANTES de que inicie el concurso (6 de Mayo) y la librería será agregada a la lista. Una vez el concurso haya inicie se cerrará la lista. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
 
-- **[Lista de librerías](https://docs.google.com/document/d/1ej4acvHUeBYsyuWEJK_xgEYpqrxTo5Oa4vqmhib_GeM/edit?usp=sharing)**
+- **[Lista de librerías]()**
 
 ### 3. Archivo Readme.md
 Por favor asegurense de que su proyecto contenga un archivo readme que siga la siguiente estructura:
@@ -130,37 +130,37 @@ Por favor asegurense de que su proyecto contenga un archivo readme que siga la s
 El archivo readme DEBE ser escrito en inglés.
 
 ## Sesiones de apoyo durante el desarrollo del concurso:
-## Sesión de apoyo 1
+### Sesión de apoyo 1
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 7 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) martes 8 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
-### Diseño I:
+#### Diseño I:
 En esta sesión se hablará sobre pricipios de diseño y usabilidad, a continuación pueden entrar material de apoyo para esta etapa:
 **[Elementos de diseño](https://docs.google.com/presentation/d/1jru6h0QqLHVUfzF1PVoxA3XYpa2m7yyoNfrUF59ppU4/edit?ts=59eb947f#slide=id.p3)**<br>
 **[Principios de diseño](https://docs.google.com/presentation/d/19nPx9W_mMp1go3D1k25sj4Dhlo4jKTIyCk1-A1zS5eo/edit?ts=59eb94ca#slide=id.p3)**
 
-### Material de apoyo:
+#### Material de apoyo:
 **[Video sobre usabilidad 1](https://www.dropbox.com/s/skabjjtp1k5bcbp/Tutorial%201of3%20on%20Design%20Elements.mov?dl=0)**<br><br>
 **[Video sobre usabilidad 2](https://www.dropbox.com/s/foiiz5n4mwm6cp7/Tutorial%202of3%20on%20Design%20Principles.mov?dl=0)**<br>
 
-## Sesión de apoyo 2
+### Sesión de apoyo 2
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 14 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) martes 15 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
 En esta sesión se atenderán dudas sobre visualización de información, además, el estudiante emajador brindará apoyo técnico para la solución del problema.
 
-## Sesión de apoyo 3
+### Sesión de apoyo 3
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 21 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) martes 22 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
-### Diseño II:
+#### Diseño II:
 En esta sesión se hablará sobre usabilidad, a continuación pueden entrar material de apoyo para esta etapa:
 **[Usability Heuristics](https://docs.google.com/presentation/d/1MfxG37OUvxEA9C9no1zpE9ZtjUOJqHKJeRptnAiF_Z8/edit?ts=59eb94ea#slide=id.p3)**
 
-### Material de apoyo:
+#### Material de apoyo:
 **[Video sobre usabilidad 3](https://www.dropbox.com/s/n2z3qsi5bk494qt/Tutorial%203of3%20on%20Usability%20Heuristics.mov?dl=0)**<br>
 
-## Sesión de apoyo 4
+### Sesión de apoyo 4
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 23 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 <i><small>Grupo 3 (Profesor Edgar) martes 24 de Mayo - 4:00pm - 6:00pm)</small></i><br>
 
