@@ -120,7 +120,7 @@ Puedes leer un poco más sobre datasets [aquí.](Datasets.md)
 
 ### 2. Librerías permitidas:
 
-El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto, si deseas utilizar una librería que NO esté dentro de la siguiente lista, debes informarlo ANTES de que inicie el concurso (6 de Mayo) y la librería será agregada a la lista. Una vez el concurso haya inicie se cerrará la lista. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
+El concurso tiene una lista específica de librerías que pueden ser utilizadas para resolver el reto. El uso de librerías distintas a las que se encuentran en la lista será penalizado. 
 
 - **[Lista de librerías](https://docs.google.com/document/d/1q1ZeBq49WPHpAJ1b7rAXogD5UiNubilQss4Wc_4-bGc/edit?usp=sharing)**
 
