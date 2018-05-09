@@ -124,11 +124,6 @@ El concurso tiene una lista específica de librerías que pueden ser utilizadas 
 
 - **[Lista de librerías](https://docs.google.com/document/d/1q1ZeBq49WPHpAJ1b7rAXogD5UiNubilQss4Wc_4-bGc/edit?usp=sharing)**
 
-### 3. Archivo Readme.md
-Por favor asegurense de que su proyecto contenga un archivo readme que siga la siguiente estructura:
-- **[Example README](readme_template)**<br>
-El archivo readme DEBE ser escrito en inglés.
-
 ## Sesiones de apoyo durante el desarrollo del concurso:
 ### Sesión de apoyo 1
 <i><small>Grupos 1 y 2 (Profesor Nicolás) lunes 7 de Mayo - 4:00pm - 6:00pm)</small></i><br>
